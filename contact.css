@@ -43,15 +43,7 @@ body{
 }
 
 .seccion{
-    width: 60vw;
-    display: flex;
-    margin: 10px;
-    align-items: center;
-}
-.seccion img{
-    height: 40vh;
-    border-radius: 15px;
-}
-.seccion p, .seccion h2{
-    margin: 5px;
+    text-align: center;
+    background-color: rgb(45, 45, 45);
+    width: 100%;
 }
